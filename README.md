@@ -25,7 +25,9 @@ The invention includes:
 This project required mechanical ideation, technical drafting, prototyping coordination, and formal patent documentation.
 
 ### Patent Filing
-[View Provisional Patent Specification (PDF)](./footwear-securing-device-provisional.pdf)
+
+[View Provisional Patent Specification](https://github.com/user-attachments/files/25550146/Tongue.Tassels.PROVISIONAL-INSOLE.DEVICE.-.Specification.-.FINAL.pdf)
+
 
 ### Capabilities Demonstrated
 - Product ideation and mechanical design  
