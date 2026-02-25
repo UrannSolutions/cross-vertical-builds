@@ -74,7 +74,7 @@ Execution required cross-functional coordination across:
 
 Beyond designing systems, I have executed at the frontline level.
 
-The recording below demonstrates a full inbound life insurance policy placement — including rapport building, needs discovery, value framing, objection handling, and application completion.
+The recording below demonstrates a full life insurance policy placement — including rapport building, needs discovery, value framing, objection handling, and application completion.
 
 This example reflects applied conversion mechanics in real time, not theoretical oversight.
 
