@@ -28,6 +28,10 @@ This project required mechanical ideation, technical drafting, prototyping coord
 
 [View Provisional Patent Specification](https://github.com/user-attachments/files/25550146/Tongue.Tassels.PROVISIONAL-INSOLE.DEVICE.-.Specification.-.FINAL.pdf)
 
+<img width="1920" height="1080" alt="Prototyping Architecture" src="https://github.com/user-attachments/assets/384f8114-8b23-43d2-bbed-d0b912295cc5" />
+
+![Product Blueprinting](https://github.com/user-attachments/assets/1856dd0b-73b0-4278-a4e2-20a577f5193e)
+
 
 ### Capabilities Demonstrated
 - Product ideation and mechanical design  
@@ -38,7 +42,10 @@ This project required mechanical ideation, technical drafting, prototyping coord
 
 ---
 
-## 2. Nutraceutical Brand Development – DFY Industries
+## 2. Nutraceutical Brand Development 
+![IMG_7393](https://github.com/user-attachments/assets/dc7f5851-f5e0-465f-b11b-298041ee892a)
+![IMG_7392](https://github.com/user-attachments/assets/8f9bff9c-c5e3-4811-9cde-a71a23a38cf2)
+
 
 ### Overview
 
@@ -71,7 +78,7 @@ The recording below demonstrates a full inbound life insurance policy placement 
 
 This example reflects applied conversion mechanics in real time, not theoretical oversight.
 
-[Watch Live Policy Placement Example](./live-policy-placement-example.mov)
+[Watch Live Policy Placement Example](https://github.com/user-attachments/files/25550570/Mr.%2BFranklin%2BCall.1.mp3)
 
 ### Capabilities Demonstrated
 - Real-time objection handling  
