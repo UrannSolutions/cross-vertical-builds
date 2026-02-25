@@ -43,9 +43,6 @@ This project required mechanical ideation, technical drafting, prototyping coord
 ---
 
 ## 2. Nutraceutical Brand Development 
-![IMG_7393](https://github.com/user-attachments/assets/dc7f5851-f5e0-465f-b11b-298041ee892a)
-![IMG_7392](https://github.com/user-attachments/assets/8f9bff9c-c5e3-4811-9cde-a71a23a38cf2)
-
 
 ### Overview
 
@@ -67,6 +64,9 @@ Execution required cross-functional coordination across:
 - Compliance-aware packaging development  
 - Product commercialization  
 - Margin-aware execution  
+
+![IMG_7393](https://github.com/user-attachments/assets/dc7f5851-f5e0-465f-b11b-298041ee892a)
+![IMG_7392](https://github.com/user-attachments/assets/8f9bff9c-c5e3-4811-9cde-a71a23a38cf2)
 
 ---
 
