@@ -85,7 +85,8 @@ This example reflects applied conversion mechanics in real time, not theoretical
 - Emotional calibration  
 - Controlled call progression  
 - One-call-close discipline  
-- Revenue execution under compliance constraints  
+- Revenue execution under compliance constraints
+- $12,000 Referral Value on 1 Lead
 
 ---
 
