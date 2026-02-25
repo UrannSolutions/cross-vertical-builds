@@ -75,4 +75,5 @@ I build systems but I also sell. This is a real call — full life insurance
 policy placement from cold intro to application complete. Rapport, needs 
 discovery, value framing, objection handling, close. No edits, no theory.
 
-[Watch Live Policy Placement Example](https://github.com/user-attachments/files/25550570/Mr.%2B
+[Watch Live Policy Placement Example](https://github.com/user-attachments/files/25555183/Mr.%2BFranklin%2BCall.1.mp3)
+
